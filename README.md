@@ -1,0 +1,2 @@
+# CASIA_HW_data_processing
+CASIA-HWDB1-2、CASIA-OLHWDB1-2、ICDAR2013联机脱机数据处理
