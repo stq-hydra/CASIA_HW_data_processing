@@ -8,24 +8,23 @@ CASIA-HWDB1-2、CASIA-OLHWDB1-2、ICDAR2013联机脱机等中文手写数据处�
 ---
 把**transformCASIA-OLHWDB1.x.py**文件中：<br/>
 
->**save_dir** 换成 你要保存生成的图片的位置<br/>
-**version_dir** 换成 原始二进制文件(*.POT)对应路径
 
+`save_dir`：换成 你要保存生成的图片的位置<br/>
+`version_dir`：换成 原始二进制文件(*.POT)对应路径
 
-<br/>
 <br/>
 其他选项比如：<br/>
 
-**size_mode** ： 可选[basic | resize]。其中basic : 保持原始大小 ; resize : 缩放点集
+* `size_mode`：可选[basic | resize]。其中basic : 保持原始大小 ; resize : 缩放点集
 
 
-**resize_hw** ： 要将图片缩放成多大，默认96X96，如果size_mode='basic'则这个不生效<br/>
+* `resize_hw`：要将图片缩放成多大，默认96X96，如果size_mode='basic'则这个不生效<br/>
 
 
-**background_color** ： 255 白底黑字；0 黑底白字<br/>
+* `background_color`：255 白底黑字；0 黑底白字<br/>
 
 
-**border** 	： 四周留空白的像素个数<br/>
+* `border`：四周留空白的像素个数<br/>
 
 <br/>
 
