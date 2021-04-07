@@ -34,6 +34,15 @@ python transformCASIA_OLHWDB1.py
 ```
 
 
+## 常用类别 classes
+
+- [X] HWDB2_2703.py
+- [X] HWDB2_2703.py
+- [X] OLHWDB12_7366.py
+- [X] OLHWDB2_2650.py
+
+
+
 ---
 
 ## TODO
@@ -42,14 +51,14 @@ python transformCASIA_OLHWDB1.py
 - [ ] CASIA-HWDB2
 - [X] CASIA-OLHWDB1
 - [ ] CASIA-OLHWDB2
-- [ ] ICDAR2013-offline
-- [ ] ICDAR2013-online
 
 文本行生成：
 - [ ] CASIA-HWDB2
 - [ ] CASIA-OLHWDB2
-- [ ] ICDAR2013-offline
-- [ ] ICDAR2013-online
+- [ ] ICDAR2013-offline(包括拟合后矫正)
+- [ ] ICDAR2013-online(包括拟合后矫正、core estimate)
+
+其实大部分都写完了，后面改改再上传
 
 <br/>
 
