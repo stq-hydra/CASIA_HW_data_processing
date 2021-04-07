@@ -37,9 +37,9 @@ python transformCASIA_OLHWDB1.py
 ## 常用类别 classes
 
 - [X] HWDB2_2703.py
-- [X] HWDB2_2703.py
-- [X] OLHWDB12_7366.py
-- [X] OLHWDB2_2650.py
+- [X] HWDB2_7373.py
+- [X] OLHWDB12_7366.py	
+- [X] OLHWDB2_2650.py (CASAI-OLHWDB2文本行训练集总字符类别)
 
 
 
