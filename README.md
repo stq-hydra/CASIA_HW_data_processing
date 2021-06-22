@@ -51,6 +51,7 @@ python transformCASIA-OLHWDB2.py
 ```
 
 <br/>
+
 ```
 文件夹结构：
  CASIA-OLHWDB2       (总共：52220张文本行， 训练集张，测试集张)
