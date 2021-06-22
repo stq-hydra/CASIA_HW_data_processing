@@ -54,7 +54,7 @@ python transformCASIA-OLHWDB2.py
 
 ```
 文件夹结构：
- CASIA-OLHWDB2       (总共：52220张文本行， 训练集张，测试集张)
+ CASIA-OLHWDB2       (总共：52220张文本行， 训练集41710张，测试集10510张)
  ├----CASIA-OLHWDB2.0     (20573张文本行)   (001-P16.ptts => 420-P20.ptts)
  │    ├--Train_Ptts                                                       (336 writers)
  │    └--Test_Ptts                                                        (84  writers)
