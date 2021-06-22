@@ -70,6 +70,7 @@ python transformCASIA-OLHWDB2.py
 内容比较多，如果有错请指正。图片的核心区域估计仅供参考，应该还能再改改。
 
 <br/> 
+
 ## 常用类别 classes
 
 - [X] HWDB2_2703.py		(CASAI-HWDB2文本行的训练集总字符类别)
